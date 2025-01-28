@@ -1,5 +1,5 @@
 # Projeto Conceitual de Banco de Dados 
-Desafio: Modelagem de E-commerce com Inteligência Artificial Aplicada a Dados 
+Desafio: Modelagem de E-commerce com Inteligência Artificial Aplicada a Dados com Heineken e DIO
 
 
 ## Descrição do Desafio
