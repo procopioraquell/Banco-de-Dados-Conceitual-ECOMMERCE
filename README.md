@@ -10,11 +10,11 @@ O projeto visa demonstrar as habilidades adquiridas em modelagem de banco de dad
 ## Objetivo
 O objetivo principal deste desafio foi refinar o modelo conceitual de um e-commerce, levando em consideração as necessidades práticas do negócio e os seguintes requisitos:
 
-### Cliente PJ e PF: Uma conta pode ser de pessoa jurídica (PJ) ou pessoa física (PF), mas não pode ter ambos os tipos de cliente simultaneamente.
+## Cliente PJ e PF: Uma conta pode ser de pessoa jurídica (PJ) ou pessoa física (PF), mas não pode ter ambos os tipos de cliente simultaneamente.
 
-### Pagamento: Um cliente pode cadastrar múltiplas formas de pagamento, permitindo maior flexibilidade nas transações.
+## Pagamento: Um cliente pode cadastrar múltiplas formas de pagamento, permitindo maior flexibilidade nas transações.
 
-### Entrega: Cada entrega possui um status e um código de rastreio, para garantir a rastreabilidade dos pedidos e o acompanhamento da logística.
+## Entrega: Cada entrega possui um status e um código de rastreio, para garantir a rastreabilidade dos pedidos e o acompanhamento da logística.
 
 ## Estrutura do Diagrama
 O modelo conceitual foi representado em um diagrama Entidade-Relacionamento (ER), que ilustra as entidades principais do sistema de e-commerce, como Cliente, Pedido, Produto, Pagamento, Entrega, e suas relações. Cada uma dessas entidades foi detalhada com os atributos e comportamentos essenciais para representar as operações de um e-commerce moderno, considerando os requisitos de flexibilidade e rastreabilidade.
